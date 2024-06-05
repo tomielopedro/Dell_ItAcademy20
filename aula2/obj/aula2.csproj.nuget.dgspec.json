@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula1\\aula1.csproj": {}
+    "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula2\\aula2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula1\\aula1.csproj": {
+    "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula2\\aula2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula1\\aula1.csproj",
-        "projectName": "aula1",
-        "projectPath": "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula1\\aula1.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula2\\aula2.csproj",
+        "projectName": "aula2",
+        "projectPath": "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula2\\aula2.csproj",
         "packagesPath": "C:\\Users\\Pedro_Tomielo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula1\\obj\\",
+        "outputPath": "C:\\Users\\Pedro_Tomielo\\OneDrive - Dell Technologies\\Documents\\projetos\\itacademy\\Dell_ItAcademy20\\aula2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro_Tomielo\\AppData\\Roaming\\NuGet\\NuGet.Config"
